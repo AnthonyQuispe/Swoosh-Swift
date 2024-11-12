@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "swooshBackground.png",
+      "filename" : "Swoosh.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "swooshBackground@2x.png",
+      "filename" : "Swoosh@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "swooshBackground@3x.png",
+      "filename" : "Swoosh@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
